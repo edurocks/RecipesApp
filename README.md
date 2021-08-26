@@ -1,3 +1,6 @@
+# Description
+This is an application to showcase a list of recipes using the new Jetpack Compose.
+
 # Main Features
 1. Kotlin
 1. MVVM
